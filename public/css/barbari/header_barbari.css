@@ -1,0 +1,4 @@
+
+.ul_panel_barbari{border-top: 1px solid #161616; border-bottom:1px solid #161616; padding: 10px;}
+.ul_panel_barbari li{display: inline-block; margin-left: 6px ; padding: 0 2px 0 7px;border-left: 1px solid #000;
+cursor: pointer;}

@@ -1,0 +1,11 @@
+
+.profile_driver{
+  width: 100%;
+  float: right;
+}
+.form_driver_edit{
+  width: 40%;
+  margin: 5px 30% 35px;
+  background-color: #c8c8c8;
+  padding: 20px;
+}
